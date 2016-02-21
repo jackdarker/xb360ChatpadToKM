@@ -1,4 +1,5 @@
-# xb360ChatpadToKM - Xbox 360 Controller+Chatpad to Keyboard+Mouse
+# xb360ChatpadToKM 
+# - Xbox 360 Controller+Chatpad to Keyboard+Mouse
 
 
 Small program to use wireless XBox360-Controller with Chatpad on windows 7 by emulating Mouse&amp;Keyboard
@@ -83,52 +84,45 @@ Install the program
 
 ## Create a mapping-profile		
 
-
 Please note: avoid Shift/Ctrl/Alt – keys since  they are not properly processed by the mapper
-
 
 Default Profile (for Skyrim / Fallout)
 
-Without Modifier pressed>>>>>
-Button	Mapped to ...		Recommed use
-----------------------------------------------
-X		R		Sheath/ reload	
-Y		Space		jump
-A		E		Activate
-B		Tab		inventory
-LBump		J		Modifier 1/Sprint	
-RBump		V		Shouts/VATS
-LTrigger	Mouse Right	Attack
-RTrigger	Mouse Left	Aim/Block
-LStick Press	J		Sneak
-RStick Press	F		View toggle
-Back		T		Wait-Menu
-Start		Escape		Pause menu
-Guide
-digipad		Q / 1..7 (clockwise)	Quick-Favorite
-LStick		WASD 			movement keys (Forward/Backward/strafing)
-RStick		Mouse coordinate	Aiming
+Button       Mapped to ...   Recommed use	(Without Modifier pressed)
+- X   R     Sheath/ reload	
+- Y		Space		jump
+- A		E		Activate
+- B		Tab		inventory
+- LBump		J		Modifier 1/Sprint	
+- RBump		V		Shouts/VATS
+- LTrigger	Mouse Right	Attack
+- RTrigger	Mouse Left	Aim/Block
+- LStick Press	J		Sneak
+- RStick Press	F		View toggle
+- Back		T		Wait-Menu
+- Start		Escape		Pause menu
+- Guide
+- digipad		Q / 1..7 (clockwise)	Quick-Favorite
+- LStick		WASD 			movement keys (Forward/Backward/strafing)
+- RStick		Mouse coordinate	Aiming
 
-
-With Modifier 1 pressed >>>>>
-Button	Mapped to ...		Recommed use
------------------------------------------------
-X		1)
-Y		C		BulletTime
-A		1)
-B		1)
-LBump		J		Modifier 1
-RBump		H
-LTrigger	1)
-RTrigger	1)
-LStick Press	1)
-RStick Press	1)
-Back		F9		quickload
-Start		F5		quicksave
-Guide
-digipad		8,9  (clockwise)	Quick-Favorite	
-LStick		1)
-RStick		X-MouseCoord. / y- Scroll	scrolling in menus / zooming
+Button	       Mapped to ...		Recommed use	(With Modifier 1 pressed)
+- X		1)
+- Y		C		BulletTime
+- A		1)
+- B		1)
+- LBump		J		Modifier 1
+- RBump		H
+- LTrigger	1)
+- RTrigger	1)
+- LStick Press	1)
+- RStick Press	1)
+- Back		F9		quickload
+- Start		F5		quicksave
+- Guide
+- digipad		8,9  (clockwise)	Quick-Favorite	
+- LStick		1)
+- RStick		X-MouseCoord. / y- Scroll	scrolling in menus / zooming
 
 1) same mapping as with no modifier
 
@@ -145,6 +139,6 @@ RStick		X-MouseCoord. / y- Scroll	scrolling in menus / zooming
 ## Credits					
 
 This program is based on the modified KytechN24's xbox360wirelesschatpad (https://github.com/KytechN24/xbox360wirelesschatpad).
-The major difference to this program is that it map to a virtual Joystick supports multiple controllers.
+The major difference to this program is that it maps to a virtual Joystick and supports multiple controllers.
 
-This program uses InputSimulator-Library branch ??
+This program uses InputSimulator-Library branch with mouse support http://??
