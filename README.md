@@ -1,5 +1,5 @@
 # xb360ChatpadToKM 
-# - Xbox 360 Controller+Chatpad to Keyboard+Mouse
+# = Xbox 360 Controller+Chatpad to Keyboard+Mouse
 
 
 Small program to use wireless XBox360-Controller with Chatpad on windows 7 by emulating Mouse&amp;Keyboard
@@ -30,7 +30,8 @@ Pros:
 
 ## What you need				
 
-- this program should work on Windows 7 64bit; didnt test it on newer systems
+- Windows 7 64bit; didnt test it on newer systems
+- download the program from https://github.com/jackdarker/xb360ChatpadToKM/tree/master/Release
 - (original) Xbox 360 wireless controller for PC 
 - a Chatpad; You dont need the original microsoft version; ( I'm using this: Neuftech® 47 Button Wireless Chatpad Keyboard )
 - libusb-Driver  v1.2.6 (https://sourceforge.net/projects/libusb-win32/files/)
